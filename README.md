@@ -7,8 +7,7 @@
 Measures to predict 30-day readmission are considered an important quality factor for hospitals as they can reduce the overall cost of care through identification of high risk patients and allow allocation of resources accordingly.Hospital readmission refers to a patient being admitted again to the hospital for the same or related care within a specific period after discharge. This issue is significant in the healthcare sector because it leads to higher hospitalization costs, decreased patient satisfaction, and an increased risk of adverse outcomes, such as infections, medication errors, and even death. The problem is particularly pronounced in intensive care units (ICUs) due to the severity of patients' conditions and the high risk of complications.
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S1532046415000969-fx1.jpg)
-
-![](https://www.researchgate.net/publication/283155457/figure/fig1/AS:335822403457025@1457077708820/Study-design-for-modeling-the-risk-of-an-inpatient-hospital-readmission-30-days-post.png)
+![Study-design-for-modeling-the-risk-of-an-inpatient-hospital-readmission-30-days-post](https://github.com/user-attachments/assets/895549bf-fd76-478d-8d42-67b848ddec5c)
 
 ## Overview
 ### Complexity of Predicting Unplanned Readmissions in ICUs
